@@ -14,3 +14,4 @@ instalación de docker
 ![instalacion de docker](https://user-images.githubusercontent.com/97433514/161520976-9baebe1a-d209-47a6-8440-e5c8521baa9a.PNG)
 
 3- ahora nos toca instalarlo completamente asi que hay que apretar el botón de reiniciar el ordenador
+![final de intalacion](https://user-images.githubusercontent.com/97433514/161521334-d50a7dc8-9c09-42e2-8197-57c4b32b9e7a.PNG)
